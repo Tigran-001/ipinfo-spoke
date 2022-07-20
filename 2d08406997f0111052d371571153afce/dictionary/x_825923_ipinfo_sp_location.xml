@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Location" max_length="40" name="x_825923_ipinfo_sp_location" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Location" max_length="40" name="location" type="string"/>
+    </element>
+</database>
